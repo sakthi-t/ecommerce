@@ -9,6 +9,7 @@
 * The data is stored in the Data directory
 * The Power BI file is added. The file name is wallmart of Power BI type.
 * The entire report is in the filename 'documentation_walmart_project1.pdf'
+* The ydata-profiling report is in the html file report 
 * If the project is published in Analytics Vidhya the link to this GitHub will be provided in the article itself
 * The project published in Analytics Vidhya will be same as it is in the report. 
 * Note that the Jupyter notebook containing the exact code accessing my Supabase code is not given
